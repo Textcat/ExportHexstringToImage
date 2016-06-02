@@ -1,7 +1,7 @@
 # ExportHexstringToImage
 Generate a Image filled with given colors, and a hexstring on each section of colors.
 
-<img src="https://github.com/luiyezheng/ExportHexstringToImage/blob/master/hexstring.png" style="width 50%">
+<img src="https://github.com/luiyezheng/ExportHexstringToImage/blob/master/hexstring.png" style="width:50%;height:50%">
 
 ##Usage
 
