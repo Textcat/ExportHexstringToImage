@@ -13,8 +13,3 @@ let font = UIFont(name: "Helvetica Bold", size: 12)
 let colorImage = getImageWithColor(CGSize(width: 200, height: 300), colors: colors, textFont: font!, textColor: UIColor.whiteColor())
 ```
 
-<style>
-  .smaller-image {
-    width: 100px;
-  }
-</style>
